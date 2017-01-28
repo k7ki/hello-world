@@ -1,3 +1,3 @@
-# hello-world
-python hello-world:
-Displays the phrase "Hello World"
+hello-world
+===========
+usage: python hello-world
